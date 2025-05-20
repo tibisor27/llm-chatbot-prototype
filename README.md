@@ -16,7 +16,7 @@
 
 ---
 
-## Key Takeaways
+## 🏆 Key Takeaways
 
 - Hands-on application of **LLMs** for solving multiple NLP subtasks in a single pipeline.
 - Working with model outputs: handling **logits**, decoding spans, and understanding token IDs.
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 Run the chatbot script:
 python chatbot.py
-
+```
 ---
 
 ## 📄 License
